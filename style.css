@@ -1,0 +1,55 @@
+h1 {
+    color: #2f2dc4;
+    margin:10px;
+    padding: 10px;
+}
+
+.header{
+    background-color:#b6217d;
+    padding: 10px;
+    border: solid ;
+    text-align:centre ; 
+}
+.header1{
+    background-color:#cac715;
+   text-shadow:#76c932;
+   
+   
+}
+.grid{
+ 
+    justify-content:space-evenly  ;
+   
+    border: solid;
+}
+
+
+p,h2{
+    text-align:centre ; 
+color:#76c932;
+}
+
+
+
+a:link{
+    color:beige;
+}
+a:visited{
+    color:blue;
+}
+p,h2{
+    text-align: center;
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
